@@ -1,6 +1,6 @@
-search_string = Your Search Here
-min_watch = 10
-max_watch = 45
-wait_after = 15
-views = 100
+search_string = AMDA Creations LK
+min_watch = 20
+max_watch = 120
+wait_after = 10
+views = 10000
 multicore = False
