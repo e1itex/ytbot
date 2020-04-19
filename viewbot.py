@@ -1,5 +1,6 @@
 from multiprocessing import Pool, cpu_count, freeze_support
 from selenium import webdriver
+from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 from time import sleep
